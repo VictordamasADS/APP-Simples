@@ -1,17 +1,17 @@
 # Digital Innovation One - Prática .NET
 
-## Criando uma APP de cadastro em memória
+## POO na prática: criando uma aplicação
 
-[Slides](dio-dotnet-poo-lab-2.pdf)
+[Slides](dio-dotnet-poo-lab-1.pdf)
 
 ## Contato
 
-Email: joaovds21@hotmail.com
+E-mail: joaovds21@hotmail.com
 
-Linkedin: https://www.linkedin.com/in/jo%C3%A3o-victor-damas-da-silva-56388b200/ 
+Linkedin: https://www.linkedin.com/in/jo%C3%A3o-victor-damas-da-silva-56388b200/
 
-Instagram: victordamasc 
-  
-Twitter: victortogno 
+Instagram: victordamasc
 
-Github: https://github.com/VictordamasADS/APP-Simples.git 
+Twitter: victortogno
+
+Github: https://github.com/VictordamasADS/APP-Simples.git
